@@ -1,0 +1,7 @@
+designer: Aha-Soft
+icon-pack: Dating
+website: http://www.aha-soft.com/
+license: Freeware Non-commercial
+free: 0
+commercial: 0
+trademark: 0

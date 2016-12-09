@@ -1,0 +1,7 @@
+designer: M.C. Straver
+icon-pack: Pale Moon branding
+website: http://www.palemoon.org/branding.shtml
+license: free to use
+free: 1
+commercial: 1
+trademark: 1

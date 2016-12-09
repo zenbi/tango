@@ -1,0 +1,7 @@
+designer: Benjigarner
+icon-pack: Summer Collection Icons
+website: http://benjigarner.deviantart.com/
+license: http://creativecommons.org/licenses/by-nc-sa/3.0/
+free: 0
+commercial: 0
+trademark: 0

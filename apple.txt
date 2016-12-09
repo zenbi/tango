@@ -1,0 +1,7 @@
+designer: Apple Inc.
+icon-pack: Logo
+website: http://apple.com/
+license: Public Domain
+free: 0
+commercial: 1
+trademark: 1

@@ -1,0 +1,7 @@
+designer: Babasse (Sebastien Durel)
+icon-pack: Bagg And Boxes Icons
+website: http://babasse.deviantart.com/
+license: http://creativecommons.org/licenses/by-nc-nd/3.0/
+free: 0
+commercial: 0
+trademark: 0

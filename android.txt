@@ -1,0 +1,7 @@
+designer: Google
+icon-pack: Android robot
+website: http://developer.android.com/distribute/googleplay/promote/brand.html
+license: http://creativecommons.org/licenses/by/3.0/
+free: 1
+commercial: 1
+trademark: 1

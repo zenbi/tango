@@ -1,0 +1,7 @@
+designer: Mozilla
+icon-pack: Firefox branding
+website: http://www.mozilla.org/en-US/styleguide/identity/firefox/branding/
+license: free to use
+free: 1
+commercial: 1
+trademark: 1

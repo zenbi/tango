@@ -1,0 +1,7 @@
+designer: Oliver Scholtz
+icon-pack: Human-O2
+website: https://www.iconfinder.com/iconsets/humano2
+license: free for non-comercial use
+free: 0
+commercial: 0
+trademark: 0

@@ -1,0 +1,7 @@
+designer: Iconshock
+icon-pack: Real Vista Sports Icons
+website: http://www.iconshock.com/icon-sets.php?application=real-vista-sports&prd=affcomm34665
+license: Free for non-commercial use
+free: 0
+commercial: 0
+trademark: 0

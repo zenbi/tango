@@ -1,0 +1,7 @@
+designer: Apple Inc.
+icon-pack: OS X Yosemite Preview Icons
+website: http://icons.iconarchive.com/icons/johanchalibert/mac-osx-yosemite/1024/safari-icon.png
+license: Non-free
+free: 0
+commercial: 1
+trademark: 1

@@ -1,0 +1,7 @@
+designer: NASA
+icon-pack: NASA insignia
+website: http://grcpublishing.grc.nasa.gov/IMAGES/Insig-cl.eps
+license: Public Domain
+free: 1
+commercial: 1
+trademark: 1

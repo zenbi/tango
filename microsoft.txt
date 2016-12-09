@@ -1,0 +1,7 @@
+designer: Microsoft Corporation
+icon-pack: Logo
+website: http://www.microsoft.com/
+license: Public Domain
+free: 0
+commercial: 1
+trademark: 1

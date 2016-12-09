@@ -1,0 +1,7 @@
+designer: Google
+icon-pack: Chrome
+website: http://www.google.com/chrome
+license: Proprietary
+free: 0
+commercial: 0
+trademark: 1

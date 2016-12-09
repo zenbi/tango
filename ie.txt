@@ -1,0 +1,7 @@
+designer: Microsoft
+icon-pack: Internet Explorer
+website: http://www.microsoft.com/
+license: Non-free
+free: 0
+commercial: 1
+trademark: 1

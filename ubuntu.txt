@@ -1,0 +1,7 @@
+designer: Canonical
+icon-pack: Ubuntu Logo
+website: https://wiki.ubuntu.com/Artwork/Official
+license: Free to use, Trademark
+free: 1
+commercial: 1
+trademark: 1

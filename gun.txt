@@ -1,0 +1,7 @@
+designer: PixTea
+icon-pack: Pistol - Gun Icon
+website: http://pixtea.com/pistol-gun-icon/
+license: Gratis
+free: 0
+commercial: 0
+trademark: 0

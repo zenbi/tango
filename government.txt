@@ -1,0 +1,7 @@
+designer: Aha-Soft
+icon-pack: Large Home Icons
+website: http://www.aha-soft.com/
+license: Free for non-commercial use
+free: 0
+commercial: 0
+trademark: 0

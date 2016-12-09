@@ -1,0 +1,7 @@
+designer: Rich Dellinger <rich@richd.com>
+icon-pack: Puzzle Icons
+website: http://richd.com/2003/02/puzzle-icons.html
+license: http://creativecommons.org/licenses/by-nc-sa/3.0/
+free: 0
+commercial: 0
+trademark: 0

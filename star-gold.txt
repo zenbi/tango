@@ -1,0 +1,7 @@
+designer: Bryan Beicker
+icon-pack: Pipecode
+website: https://pipecode.org/
+license: GNU Affero General Public License 3
+free: 1
+commercial: 1
+trademark: 0

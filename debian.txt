@@ -1,0 +1,7 @@
+designer: Software in the Public Interest, Inc.
+icon-pack: Debian Open Use Logo
+website: http://www.debian.org/logos/
+license: GPL3 and http://creativecommons.org/licenses/by-sa/3.0/
+free: 1
+commercial: 1
+trademark: 1

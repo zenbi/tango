@@ -1,0 +1,7 @@
+designer: Lawyer WordPress Themes
+icon-pack: Free Law Icons
+website: http://www.lawyerwordpressthemes.com/law-icons/
+license: http://creativecommons.org/licenses/by/3.0/
+free: 0
+commercial: 0
+trademark: 0

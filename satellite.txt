@@ -1,0 +1,7 @@
+designer: Icons-Land
+icon-pack: GIS/GPS/MAP
+website: http://www.icons-land.com/
+license: Freeware Non-commercial
+free: 0
+commercial: 0
+trademark: 0

@@ -1,0 +1,7 @@
+designer: DesignContest
+icon-pack: Ecommerce Business Icons
+website: http://www.designcontest.com/
+license: http://creativecommons.org/licenses/by/3.0/
+free: 0
+commercial: 0
+trademark: 0

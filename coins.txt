@@ -1,0 +1,7 @@
+designer: VisualPharm (Ivan Boyko)
+icon-pack: Finance
+website: http://www.visualpharm.com/
+license: Creative Commons Attribution Non-commercial (by-nc)
+free: 0
+commercial: 0
+trademark: 0

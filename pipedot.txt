@@ -1,0 +1,7 @@
+designer: Pipedot
+icon-pack: Pipedot
+website: http://pipedot.org/
+license: Pipedot trademark
+free: 1
+commercial: 1
+trademark: 1

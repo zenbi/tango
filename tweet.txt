@@ -1,0 +1,7 @@
+designer: Twitter
+icon-pack: Blue Bird
+website: https://dev.twitter.com/docs/image-resources
+license: https://dev.twitter.com/terms/display-requirements
+free: 0
+commercial: 1
+trademark: 1

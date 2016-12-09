@@ -1,0 +1,7 @@
+designer: Hiroshi Seo
+icon-pack: Ubunchu!
+website: http://seotch.wordpress.com/ubunchu/
+license: http://creativecommons.org/licenses/by-nc/3.0/
+free: 0
+commercial: 0
+trademark: 0

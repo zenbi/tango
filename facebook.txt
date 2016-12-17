@@ -3,5 +3,5 @@ icon-pack: Facebook "f" Logo
 website: https://www.facebookbrand.com/
 license: Trademark
 free: 0
-commercial: 0
-trademark: 0
+commercial: 1
+trademark: 1

@@ -1,0 +1,7 @@
+designer: Google
+icon-pack: Material Design Icons
+website: https://github.com/google/material-design-icons/
+license: Apache License Version 2.0
+free: 1
+commercial: 1
+trademark: 0

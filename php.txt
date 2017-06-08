@@ -1,0 +1,7 @@
+designer: The PHP Group
+icon-pack: PHP Logo
+website: http://php.net/download-logos.php
+license: free to use
+free: 1
+commercial: 1
+trademark: 1

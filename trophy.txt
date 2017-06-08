@@ -1,7 +1,7 @@
-designer: Icons-Land
-icon-pack: Sport Icons
-website: http://www.iconarchive.com/icons/icons-land/sport/IconsLandStockIconsLicense.txt
-license: Free for non-commercial use
-free: 0
-commercial: 0
+designer: Gnome
+icon-pack: Gnome Desktop Icons
+website: http://www.gnome.org/
+license: GPL
+free: 1
+commercial: 1
 trademark: 0
